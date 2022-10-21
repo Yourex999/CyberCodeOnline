@@ -406,7 +406,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Plano",
+ 	 	 	 	"trans": "Muerto",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -2316,7 +2316,7 @@
  	 	 	"eng": "Amount"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Capacidad de Colaboración",
+ 	 	 	"trans": "Capacidad de Calibración",
  	 	 	"eng": "Calibration Capacity"
  	 	},
  	 	"globalEffects": {
